@@ -11,8 +11,7 @@
 class Solution {
     public ListNode deleteDuplicates(ListNode head) {
         
-        //list is sorted
-        //hence the next element should not be equal to prev element
+        //list is sorted, hence we simply check if the next element is equal to the previous element. If it is, then we skip over that element since in a sorted list, we cannot have repeating elements.
         
         ListNode curr = head;
         ListNode prev = head;
