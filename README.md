@@ -6,10 +6,12 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/jaidevmane/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/jaidevmane/leetcode-solutions/tree/master/0078-subsets) |
 # Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/jaidevmane/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/jaidevmane/leetcode-solutions/tree/master/0078-subsets) |
 # Bit Manipulation
 |  |
