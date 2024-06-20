@@ -34,6 +34,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevmane/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+| [0208-implement-trie-prefix-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 # Matrix
 |  |
 | ------- |
@@ -46,3 +47,12 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevmane/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+# Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
+# Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
