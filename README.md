@@ -21,6 +21,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0078-subsets](https://github.com/jaidevmane/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -30,7 +31,12 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 # Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
