@@ -10,6 +10,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0040-combination-sum-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaidevmane/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jaidevmane/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0090-subsets-ii) |
 # Backtracking
 |  |
@@ -18,9 +19,18 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0040-combination-sum-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaidevmane/leetcode-solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/jaidevmane/leetcode-solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0090-subsets-ii) |
 # Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jaidevmane/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0090-subsets-ii) |
+# String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
+# Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
