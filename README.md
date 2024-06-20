@@ -15,6 +15,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevmane/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/jaidevmane/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/jaidevmane/leetcode-solutions/tree/master/0046-permutations) |
@@ -30,6 +31,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevmane/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 # Matrix
@@ -40,3 +42,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
+# Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevmane/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
