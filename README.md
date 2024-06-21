@@ -13,6 +13,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Backtracking
 |  |
@@ -42,6 +43,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | ------- |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Dynamic Programming
 |  |
@@ -72,6 +74,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | ------- |
 | [0133-clone-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Union Find
 |  |
