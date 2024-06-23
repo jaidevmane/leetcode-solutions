@@ -12,6 +12,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0078-subsets](https://github.com/jaidevmane/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/jaidevmane/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/jaidevmane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaidevmane/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -43,6 +44,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/jaidevmane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaidevmane/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -68,6 +70,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaidevmane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaidevmane/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -75,6 +78,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaidevmane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
@@ -83,6 +87,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jaidevmane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Graph
