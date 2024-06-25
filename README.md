@@ -74,6 +74,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0133-clone-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jaidevmane/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaidevmane/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Breadth-First Search
@@ -83,6 +84,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0133-clone-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/jaidevmane/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaidevmane/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -91,12 +93,14 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | ------- |
 | [0130-surrounded-regions](https://github.com/jaidevmane/leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/jaidevmane/leetcode-solutions/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 # Topological Sort
 |  |
 | ------- |
