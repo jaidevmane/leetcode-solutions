@@ -52,6 +52,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/jaidevmane/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 # Hash Table
 |  |
@@ -113,3 +114,11 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jaidevmane/leetcode-solutions/tree/master/0207-course-schedule) |
+# Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaidevmane/leetcode-solutions/tree/master/0070-climbing-stairs) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaidevmane/leetcode-solutions/tree/master/0070-climbing-stairs) |
