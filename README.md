@@ -77,6 +77,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0261-graph-valid-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaidevmane/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/jaidevmane/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Breadth-First Search
 |  |
@@ -89,6 +90,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0286-walls-and-gates](https://github.com/jaidevmane/leetcode-solutions/tree/master/0286-walls-and-gates) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/jaidevmane/leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0684-redundant-connection](https://github.com/jaidevmane/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Union Find
 |  |
@@ -97,6 +99,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0200-number-of-islands](https://github.com/jaidevmane/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/jaidevmane/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/jaidevmane/leetcode-solutions/tree/master/0695-max-area-of-island) |
 # Graph
 |  |
@@ -105,6 +108,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0207-course-schedule](https://github.com/jaidevmane/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/jaidevmane/leetcode-solutions/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/jaidevmane/leetcode-solutions/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0684-redundant-connection](https://github.com/jaidevmane/leetcode-solutions/tree/master/0684-redundant-connection) |
 # Topological Sort
 |  |
 | ------- |
