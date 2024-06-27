@@ -6,8 +6,7 @@ class Solution:
             return nums[0]
         if n == 1:
             return max(nums[0], nums[1])
-        
-        memo = {0: nums[0], 1:max(nums[0], nums[1]) }
+        memo = {0: nums[0], 1: max(nums[0], nums[1])}
 
         def helper(i):
             if i in memo:
@@ -15,6 +14,5 @@ class Solution:
             else:
                 memo[i] = max(nums[i] + helper(i - 2), helper(i - 1))
                 return memo[i]
-
-        return helper(n)        
+        return helper(n)
         
