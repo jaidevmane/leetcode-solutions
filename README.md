@@ -38,6 +38,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaidevmane/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/jaidevmane/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/jaidevmane/leetcode-solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
@@ -54,6 +55,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaidevmane/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/jaidevmane/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/jaidevmane/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/jaidevmane/leetcode-solutions/tree/master/0198-house-robber) |
@@ -142,3 +144,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jaidevmane/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+# Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/jaidevmane/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
