@@ -158,6 +158,7 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jaidevmane/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
+| [0242-valid-anagram](https://github.com/jaidevmane/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -170,8 +171,10 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jaidevmane/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jaidevmane/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/jaidevmane/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/jaidevmane/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
