@@ -166,12 +166,14 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 | [0005-longest-palindromic-substring](https://github.com/jaidevmane/leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/jaidevmane/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaidevmane/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/jaidevmane/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Array
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jaidevmane/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/jaidevmane/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/jaidevmane/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0300-longest-increasing-subsequence](https://github.com/jaidevmane/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,4 +193,8 @@ This is a collection of the algorithm style problems that I have solved on Leetc
 |  |
 | ------- |
 | [0139-word-break](https://github.com/jaidevmane/leetcode-solutions/tree/master/0139-word-break) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/jaidevmane/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
